@@ -33,7 +33,7 @@ O Duty cycle controla a intensidade luminosa de forma proporcional a sua magnitu
 - `hardware/pwm.h` – Para controle do PWM no Raspberry Pi Pico.
 
 ## Video Demonstrativo
-- Link para o video: 
+- Link para o video: https://www.youtube.com/watch?v=7qEw6y60H_0
 
 
 
